@@ -1,0 +1,17 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,207098,21.784012,-16.127287,Deneb Algedi
+star,1,206088,21.66818,-16.662308,Nashira
+star,2,203387,21.370775,-16.834541,Iota Capricorni
+star,3,200761,21.099117,-17.23286,Dorsum
+star,4,193495,20.350187,-14.781367,Dabih
+star,5,192876,20.29413,-12.508212,Algiedi Prima
+star,6,197692,20.76826,-25.270899,Psi Capricorni
+star,7,198542,20.863691,-26.919132,Omega Capricorni
+star,8,200914,21.118797,-25.005854,24 Capricorni
+star,9,204075,21.444452,-22.411331,Zeta Capricorni
+
+indices,0,1,1,2,2,3,3,4,4,5,4,6,6,7,7,8,8,9,9,0

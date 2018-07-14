@@ -1,0 +1,26 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,7106,1.194342,30.089638,Tau Piscium
+star,1,7964,1.324443,27.26406,Upsilon Piscium
+star,2,9270,1.524725,15.345823,Kullat Nunu
+star,3,12446,2.034117,2.763759,Alrescha
+star,4,11559,1.892597,3.187536,Xi Piscium
+star,5,10380,1.690526,5.487613,Nu Piscium
+star,6,9138,1.503087,6.14382,Mu Piscium
+star,7,7344,1.228857,7.575354,Revati
+star,8,6186,1.049058,7.890135,Kaht
+star,9,4656,0.811373,7.585079,Linteum
+star,10,2913,0.539939,6.955463,51 Piscium
+star,11,224617,23.988525,6.863321,Omega Piscium
+star,12,222368,23.665844,5.626292,Iota Piscium
+star,13,220954,23.466139,6.378992,Theta Piscium
+star,14,220009,23.33905,5.381307,7 Piscium
+star,15,219615,23.286095,3.282289,Gamma Piscium
+star,16,220825,23.448875,1.255608,Kappa Piscium
+star,17,222603,23.700779,1.780041,Lambda Piscium
+star,18,223075,23.7732,3.486811,19 Piscium
+
+indices,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,12

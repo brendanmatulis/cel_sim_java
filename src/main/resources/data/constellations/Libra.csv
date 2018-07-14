@@ -1,0 +1,12 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,138905,15.592105,-14.789537,Zubenelhakrabi
+star,1,135742,15.283449,-9.382917,Zubeneschemali
+star,2,130819,14.844773,-15.997237,Zubenelgenubi
+star,3,133216,15.067839,-25.281965,Brachium
+star,4,139365,15.64427,-29.777754,Tau Librae
+
+indices,0,1,1,2,2,0,2,3,0,4

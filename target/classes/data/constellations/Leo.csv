@@ -1,0 +1,16 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,102647,11.817663,14.57206,Denebola
+star,1,97603,11.235138,20.523718,Zosma
+star,2,89484,10.332873,19.84149,Algieba
+star,3,89025,10.278171,23.41731,Adhafera
+star,4,85503,9.879398,26.00695,Rasalas
+star,5,84441,9.764188,23.774256,Ras Elased Australis
+star,6,87737,10.122209,16.762665,Al Jabhah
+star,7,87901,10.139532,11.967207,Regulus
+star,8,97633,11.237335,15.42957,Chertan
+
+indices,0,1,1,2,2,3,3,4,4,5,2,6,6,7,7,8,8,0

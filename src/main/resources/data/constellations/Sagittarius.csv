@@ -1,0 +1,18 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,178524,19.162731,-21.023615,Albaldah
+star,1,177241,19.07805,-21.741495,Omicron Sagittarii
+star,2,175775,18.962168,-21.106653,Xi2 Sagittarii
+star,3,176687,19.043531,-29.880104,Ascella
+star,4,175191,18.92109,-26.296722,Nunki
+star,5,173300,18.76094,-26.990778,Phi Sagittarii
+star,6,169916,18.466179,-25.4217,Kaus Borealis
+star,7,168454,18.3499,-29.828102,Kaus Meridionalis
+star,8,165135,18.096804,-30.424091,Nash
+star,9,169022,18.402868,-34.384617,Kaus Australis
+star,10,167618,18.293793,-36.761684,Sephdar
+
+indices,0,1,2,1,1,4,4,3,4,5,5,6,6,7,7,8,7,9,9,10

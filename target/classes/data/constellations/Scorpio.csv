@@ -1,0 +1,20 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,158926,17.560144,-37.10382,Shaula
+star,1,160578,17.708132,-39.029984,Girtab
+star,2,155203,17.202553,-43.23919,Eta Scorpii
+star,3,152236,16.899923,-42.362026,Zeta1 Scorpii
+star,4,151890,16.86451,-38.04738,Xamidimura
+star,5,151680,16.83608,-34.293232,Larawag
+star,6,149438,16.598043,-28.216017,Tau Scorpii
+star,7,148478,16.490128,-26.432001,Antares
+star,8,147165,16.353144,-25.592796,Alniyat
+star,9,143018,15.980865,-26.114105,Fang
+star,10,143275,16.005556,-22.62171,Dschubba
+star,11,144217,16.09062,-19.805452,Graffias
+star,12,145502,16.199926,-19.460709,Jabbah
+
+indices,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,8,10,8,11,8,12

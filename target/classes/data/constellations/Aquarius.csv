@@ -1,0 +1,19 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,220704,23.434109,-20.642014,99 Aquarii
+star,1,219449,23.264858,-9.087737,Psi1 Aquarii
+star,2,216386,22.87691,-7.579599,Ekchusis
+star,3,216627,22.910837,-15.82082,Skat
+star,4,218594,23.157442,-21.17241,88 Aquarii
+star,5,212061,22.360937,-1.387331,Sadachbia
+star,6,213998,22.589272,-0.117498,Hydria
+star,7,212571,22.421284,1.377401,Pi Aquarii
+star,8,209750,22.0964,-0.319851,Sadalmelik
+star,9,204867,21.525982,-5.571172,Sadalsuud
+star,10,201381,21.159903,-11.371693,Nu Aquarii
+star,11,198001,20.794598,-9.495776,Albali
+
+indices,0,1,1,2,2,3,3,4,4,0,2,5,5,6,6,7,7,5,5,8,8,9,9,10,10,11

@@ -1,0 +1,15 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,37742,5.679313,-1.942572,Alnitak
+star,1,37128,5.603559,-1.201920,Alnilam
+star,2,36486,5.533445,-0.299092,Mintaka
+star,3,35468,5.418851,6.349702,Bellatrix
+star,4,39801,5.919529,7.407063,Betelgeuse
+star,5,38771,5.795941,-9.669605,Saiph
+star,6,34085,5.242298,-8.201640,Rigel
+
+indices,0,1,1,2,2,3,3,4,4,0,0,5,5,6,6,2
+

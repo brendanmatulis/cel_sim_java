@@ -1,0 +1,12 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,17573,2.833063,27.260507,Bharani
+star,1,12929,2.119555,23.462423,Hamal
+star,2,11636,1.910668,20.808035,Sheratan
+star,3,11502,1.892170,19.293852,Mesarthim
+
+
+indices,0,1,1,2,2,3

@@ -1,0 +1,13 @@
+#Constellations referenced from http://www.constellation-guide.com/constellation-list/cancer-constellation/
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,74739,8.778284,28.759897,Decapoda
+star,1,74198,8.721431,21.468501,Asellus Borealis
+star,2,74442,8.74475,18.154308,Asellus Australis
+star,3,76756,8.974784,11.857701,Acubens
+star,4,69267,8.275256,9.185545,Altarf
+
+
+indices,0,1,1,2,2,3,2,4

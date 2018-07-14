@@ -1,0 +1,12 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,47105,6.628528,16.399252,Alhena
+star,1,44478,6.382673,22.513586,Tejat
+star,2,48329,6.732202,25.131124,Mebsuta
+star,3,60179,7.576634,31.888276,Castor
+star,4,62509,7.755277,28.026199,Pollux
+
+indices,0,1,1,2,2,3,3,4,4,0

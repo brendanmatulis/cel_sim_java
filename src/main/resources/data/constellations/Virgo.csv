@@ -1,0 +1,18 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,130109,14.770812,1.892885,
+star,1,122408,14.027443,1.544532, Tau Virginis
+star,2,118098,13.57822,-0.59582,Heze
+star,3,112300,12.926725,3.39747,Minelauva
+star,4,113226,13.036278,10.95915,Vindemiatrix
+star,5,110379,12.694345,-1.449375,Porrima
+star,6,107259,12.331766,-0.666803,Zaniah
+star,7,102870,11.844922,1.764718,Zavijava
+star,8,114330,13.165831,-5.53901,Caphir
+star,9,116658,13.419883,-11.161322,Spica
+
+
+indices,0,1,1,2,2,3,3,4,3,5,5,6,6,7,5,8,8,9

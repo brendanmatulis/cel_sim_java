@@ -1,0 +1,16 @@
+#Constellations referenced from http://pbarbier.com/stars/charts.html
+#ignore lines with '#'
+#type: star,id,hd,ra,dec,proper
+#type: indices,id,id,id,...[star ids]
+
+star,0,25204,4.011338,12.490347,
+star,1,27371,4.329889,15.627642,Prima Hyadum
+star,2,27697,4.382247,17.542514,Secunda Hyadum
+star,3,28305,4.476943,19.180431,Ain
+star,4,35497,5.438198,28.607450,Alnath
+star,5,28307,4.476248,15.962181,
+star,6,29139,4.598677,16.509301,Aldebaran
+star,7,37202,5.627413,21.142549,Tianguan
+
+
+indices,0,1,1,2,2,3,3,4,1,5,5,6,6,7
